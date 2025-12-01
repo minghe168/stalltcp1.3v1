@@ -6,10 +6,10 @@ import { connect } from 'cloudflare:sockets';
 const UUID = "06b65903-406d-4a41-8463-6fd5c0ee7798";   //修改可用的UUID
 
 // 1. 后台管理密码
-const WEB_PASSWORD = "";   //修改你的后台管理密码
+const WEB_PASSWORD = "luo200195";   //修改你的后台管理密码
 
 // 2. 快速订阅密码 (例如访问 https://域名/tian+.1)
-const SUB_PASSWORD = "";   //修改你的订阅链接密码 
+const SUB_PASSWORD = "9935";   //修改你的订阅链接密码 
 
 // 3. 默认基础配置
 // 🔴 默认 ProxyIP (代码修改此处生效，客户端修改 path 生效)
